@@ -1,0 +1,1 @@
+This is a sample jsf application with integrated spring and Richfaces configured
