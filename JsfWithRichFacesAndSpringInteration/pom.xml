@@ -4,8 +4,8 @@
 
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.c3.virtualshirts</groupId>
-	<artifactId>VirtualShirts</artifactId>
+	<groupId>com.rocky.jsfspring</groupId>
+	<artifactId>JsfWithRichFacesAndSpringInteration</artifactId>
 	<name>RichFaces 4 Application</name>
 	<version>1.0</version>
 	<packaging>war</packaging>
